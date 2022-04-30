@@ -14,7 +14,7 @@ Heatcliff ist ein Modularer TelegrammBot für ioBroker.
 3. audo.js 
 4. Battery.js
 5. Heating.js 
-6. List.js 
+6. Licht.js 
 7. Shoppinglist.js
 8. Vacuum_Robot.js
 9. gas_station.ts
